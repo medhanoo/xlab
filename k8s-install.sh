@@ -62,4 +62,5 @@ sudo apt-mark hold kubelet kubeadm kubectl
 
 
 
-
+docker_install
+k8s_install
